@@ -104,6 +104,5 @@ function excluirDados(i) {
   }
 }
 
-// Event listeners
 form.onsubmit = salvarDados;
 document.getElementById('limpar').onclick = limparFormulario;
